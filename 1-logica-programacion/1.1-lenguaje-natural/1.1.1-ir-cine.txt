@@ -1,0 +1,35 @@
+PROBLEMA 1
+
+Definir los pasos necesarios para ir al cine en un algoritmo
+
+Llegar al cine
+------------------------------------------------
+1.-Tengo tiempo?
+
+2.-Tengo dinero?
+
+3.-Ver cartelera
+
+4.-Me llama la atenciÛn alguna pelicula?
+
+5.-Seleccionar pelicula
+
+6.-Esta cerca?-No: buscar cÛmo llegar
+
+7.-sÌ: llegar caminando
+
+8.-Pedir boletos
+
+9.-Verificar si hay asientos disponibles
+
+10.-Pagar
+
+11.-quieres algo de la dulceria?
+
+12.-Verificar si te alcanza
+
+13.-pedir y pagar
+
+14.-Dirigirme a sala y asiento correpondiente
+
+15.-Disfrutar la pelicula
