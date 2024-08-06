@@ -1,0 +1,2 @@
+1. Intro a la web: https://github.com/montoyaguzman/gen28-intro-a-la-web
+2. Intro a JS: https://github.com/montoyaguzman/gen28-intro-js
