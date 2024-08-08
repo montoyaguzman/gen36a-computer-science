@@ -1,0 +1,13 @@
+PROBLEMA
+
+Dados un conjunto de numeros, se requiere recorrer el conjunto
+y sumar todos esos numero, excepto si nos encontramos en una posicion 
+que es multiplo de 3.
+
+Valor arreglo[2]
+Posicion [2]
+
+
+[1, 4, 7, 9, 3, 3, 5, 90, 100, 12, 4, 32]
+
+1 + 4 + 7 + 3 + + 3 + 90 + 100 + 4 + 32

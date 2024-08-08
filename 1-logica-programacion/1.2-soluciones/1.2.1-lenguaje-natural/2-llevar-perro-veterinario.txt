@@ -1,0 +1,46 @@
+PROBLEMA 2
+
+Que harian para llevar a su perro al doctor?
+
+SOLUCION 1
+
+1. Ver mi disponibilidad (horario).
+
+2. Preguntar si realmente es necesario?
+
+3. Ubicar la veterinaria / hospital (direccion y telefono).
+
+4. Elegir ruta de llegada.
+
+5. Prepara al cachorro.
+
+6. Tomar la ruta y el medio de transporte los 2.
+
+7. Entrar a la veterinaria.
+
+8. Preguntar en la recepcion.
+
+9. Esperar nuestro turno.
+
+10. Entrar la consulta.
+
+
+SOLUCION 2
+
+1 Llamar para cita
+2 preparar al perro
+3 entrar al auto
+4 llegar a la clinica
+5 esperar ser llamado
+6 ser atendido
+
+(-- EXPLICAR SINTOMAS Y RESPONDER PREGUNTAS)
+    OPCIONAL DEPENDIENDO LO QUE CADA QUIEN NECESITA
+    PARA ORDENAR LOS PASOS DE SOLUCION DE UN ALGORITMO
+
+7 tomar recetas y procedimientos a seguir
+8 pagar
+9 comprar medicamento
+10 regresar al carro
+11 regresar a casa
+12 seguir recomendaciones
