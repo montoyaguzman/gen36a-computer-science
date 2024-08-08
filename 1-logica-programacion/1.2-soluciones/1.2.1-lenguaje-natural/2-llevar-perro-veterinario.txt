@@ -44,3 +44,5 @@ SOLUCION 2
 10 regresar al carro
 11 regresar a casa
 12 seguir recomendaciones
+
+

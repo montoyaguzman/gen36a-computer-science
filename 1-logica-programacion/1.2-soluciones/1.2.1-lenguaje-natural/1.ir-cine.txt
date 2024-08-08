@@ -2,6 +2,8 @@ PROBLEMA 1
 
 Definir los pasos necesarios para ir al cine en un algoritmo
 
+SOLUCION
+
 Llegar al cine
 ------------------------------------------------
 1.-Tengo tiempo?

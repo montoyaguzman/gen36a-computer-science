@@ -5,6 +5,10 @@ Dependiendo de la figura que indique el usuario (cuadrado, rectangulo
 y triangulo isoceles).
 
 
+SOLUCION
+??
+
+
 PEDIR LOS VALORES (ENTRADAS)
 el usuario me va la figura
     
