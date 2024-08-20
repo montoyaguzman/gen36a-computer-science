@@ -1,0 +1,31 @@
+-----------------------
+Persona
+-----------------------
+name: String
+age: Int
+nationality: String
+work: String
+isIntrovertido: Boolean
+-----------------------
+eat(): void
+sleep(): void
+takeBootcamp(payment): String
+-----------------------
+
+
+-----------------------
+Panadero
+-----------------------
+isComerciante: Boolean
+hasEspatula: Boolean
+-----------------------
+cook()
+
+
+-----------------------
+Superheroe
+-----------------------
+superpoder: String
+secretName: String
+-----------------------
+fly()
