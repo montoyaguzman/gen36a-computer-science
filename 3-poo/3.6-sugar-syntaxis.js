@@ -1,4 +1,4 @@
-class createPersona {
+class Persona {
 
     constructor(name, age, nationality, work, isIntrovertido) {
         this.name = name;
@@ -14,9 +14,10 @@ class createPersona {
 
 }
 
-class createPanadero extends createPersona {
+class Panadero extends Persona {
     constructor(name, age, nationality, work, isIntrovertido, isComerciante, hasEspatula) {
         super(name, age, nationality, work, isIntrovertido);
+        console.log('this...', this);
         this.isComerciante = isComerciante;
         this.hasEspatula = hasEspatula;
     }
@@ -25,7 +26,7 @@ class createPanadero extends createPersona {
     }
 }
 
-class createSuperhero extends createPersona {
+class Superhero extends Persona {
     constructor(name, age, nationality, work, isIntrovertido, superpoder, secretName, alias) {
         super(name, age, nationality, work, isIntrovertido);
         this.superpoder = superpoder;
@@ -37,9 +38,15 @@ class createSuperhero extends createPersona {
     }
 }
 
-const tintan = new createPanadero('tintan', 25, 'mexicana', 'actor', false, true, true);
-const spiderman = new createSuperhero('peter parker', 22, 'estadunidense', 'clarin', true, 'superfuerza', 'peter parker', 'spiderman');
-const ironMan = new createSuperhero('tony stark', 45, 'estadunidense', '100tifiko', false, 'raios laseer', 'tony stark', 'iron man');
+class Car {
+    constructor(model) {
+        this.model = model
+    }
+}
+
+const tintan = new Panadero('tintan', 25, 'mexicana', 'actor', false, true, true);
+const spiderman = new Superhero('peter parker', 22, 'estadunidense', 'clarin', true, 'superfuerza', 'peter parker', 'spiderman');
+const ironMan = new Superhero('tony stark', 45, 'estadunidense', '100tifiko', false, 'raios laseer', 'tony stark', 'iron man');
 
 console.log('CLASS');
 console.log('spiderman: ', spiderman);
