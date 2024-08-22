@@ -1,8 +1,9 @@
 const spiderman = {
-    superpoder: 'superfuerza',
     secretName: 'peter parker',
     alias: 'spiderman'
 };
+
+spiderman.superpoder = 'superfuerza';
 
 // spiderman.fly() // this = spiderman
 
