@@ -1,0 +1,19 @@
+cliente amazon (pagina web) => api banco => back end amazon (existencia del productop?) => al cliente de amazon para dar respuesta al cliente
+
+
+CLIENTE
+Son cualquier elementro dentro de la comunicacion en internet
+que piden informacion
+
+SERVIDOR
+Cualquier elemento dentro de un canal de comunicacion en internet que responde informacion
+
+Para obtener o enviar informacion de un servidor por medio del cliente se realiza algo conocido como
+REQUEST y al recibir respuesta del servidor se obtiene algo llamado RESPONSE.
+
+Para que la comunicacion entre APIS sea estandar independientemente del lenguaje
+en que cada sistema este hecho se utilizan la URL y un VERBO.
+
+
+JSON
+Es el formato de datos para intercambiar informacion entre apis

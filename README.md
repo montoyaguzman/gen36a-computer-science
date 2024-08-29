@@ -226,7 +226,7 @@ const person = {
 // json => key: value
 {
     "person": {
-        name: "jose m"
+        "name": "jose m"
     }
 }
 ```
